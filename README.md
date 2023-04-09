@@ -1,2 +1,2 @@
 # Online-Retail-II
-Analysing online retail dataset
+This study aimed to analyse an online retail dataset using various machine learning models. The dataset was pre-processed by handling missing values and categorical data, and feature scaling was applied using standardization. Three different models, namely perceptron, decision tree, and logistic regression, were used to evaluate the accuracy of the dataset. Hyperparameter tuning was performed to improve the models' performance. The results of the analysis provide insights into predicting customer behaviour in the online retail industry, leading to better decision-making and improving business operations.
